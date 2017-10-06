@@ -24,15 +24,15 @@ void loading3();
 
 void menu();
    void booksname1();
-  void loading4();
+   void loading4();
    void mazname1();
    void balance();
    void logout();
-  void loading5();
-  // int ch1balance();
-  void loading6();
+   void loading5();
+   // int ch1balance();
+   void loading6();
    //int ch1logout()
-  void loading7();
+   void loading7();
    //int logoutthank();
    //int projectmade();
 void main()
@@ -211,7 +211,7 @@ exit(0);
 //bookstructure();
 //loading3();
 //menu();
-exit(0);
+//exit(0);
 //loading4();
 //loading5();
 //loading6();
